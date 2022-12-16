@@ -1,6 +1,6 @@
 # Hola mundo
 
-Hola me llamo Álvaro Ubilla, tengo 22 años y soy un estudiante de Ingeniería Civíl en Computación mención Informática de la Universidad Tecnológica Metropolitana de Santiago de Chile. Me dedico principalmente en el desarrollo de aplicaciónes, tanto moviles como web mediante librerías valoradas por la comunidad, tales como `nodejs`, `express`, `mongodb`, `nextjs`, `react`, entre muchas otras.
+Hola me llamo Álvaro Ubilla, tengo 23 años y soy un estudiante de Ingeniería Civíl en Computación mención Informática de la Universidad Tecnológica Metropolitana de Santiago de Chile. Me dedico principalmente en el desarrollo de aplicaciónes, tanto moviles como web mediante librerías valoradas por la comunidad, tales como `nodejs`, `express`, `mongodb`, `nextjs`, `react`, entre muchas otras.
 
 Mi principal lenguaje de programación es typescript ♥
 
