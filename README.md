@@ -23,6 +23,10 @@ Página hecha para la empresa corredora de propiedades Propiedades del Maipo par
 
 Proyecto realizado para la gestión de pedidos del taller independiente de revelado analógico Alfalab. Consiste de una API RESTful de express y una aplicación de Android. Futuramente se desarrollará una aplicación web para el taller.
 
++ **[LSCH App](https://github.com/AUbillaOliva/LSCH/tree/master)** `🚧 En desarrollo 🚧`
+
+LSCH App es una aplicación móvil para Android, diseñada con el proposito de brindar de manera portatil un diccionario de la lengua de señas chilena (LSCH).
+
 ## ⛳ Mis Hobbies
 
 + 🚴‍♀️ Ciclismo: Conllevo una vida saludable mediante el deporte de ciclismo.
