@@ -1,17 +1,17 @@
 # Hola mundo
 
-Hola me llamo Álvaro Ubilla, tengo 23 años y soy un estudiante de Ingeniería Civíl en Computación mención Informática de la Universidad Tecnológica Metropolitana de Santiago de Chile. Me dedico principalmente en el desarrollo de aplicaciónes, tanto moviles como web mediante librerías valoradas por la comunidad, tales como `nodejs`, `express`, `mongodb`, `nextjs`, `react`, entre muchas otras.
+Hola me llamo Álvaro Ubilla, tengo 24 años y soy un estudiante de Ingeniería Civíl en Computación mención Informática de la Universidad Tecnológica Metropolitana de Santiago de Chile. Me dedico principalmente en el desarrollo de aplicaciónes, tanto moviles como web mediante librerías valoradas por la comunidad, tales como `nodejs`, `express`, `mongodb`, `nextjs`, `react`, entre muchas otras.
 
 Mi principal lenguaje de programación es typescript ♥
 
 ## ✨ Mi experiencia
 
-Fue en mis años de enseñanza media que decidí realizar proyectos relacionados a la informatica y computación. Mi primer proyecto consistió en la creación de una aplicación móvil y amigable para aprender la lengua de señas chilena (LSCH). Fue desde entonces y hasta el dia de hoy que he estudiado y aprendido diversas tecnologías y herramientas, esto con el continuo reforzamiento de materias a lo largo de mi vida universitaria. Esto me facilitó el poder incorporarme a nuevos proyectos de desarrollo de software y poder gestiónar en conjunto con un equipo, el desarrollo de diversos proyectos.
+Fue en mis años de enseñanza media que decidí realizar proyectos relacionados a la informatica y computación. Mi primer proyecto consistió en la creación de una aplicación móvil y amigable para aprender la lengua de señas chilena (LSCH). Fue desde entonces y hasta el dia de hoy que he estudiado y aprendido diversas tecnologías y herramientas, esto con el continuo reforzamiento de materias a lo largo de mi vida universitaria. Esto me facilitó el poder incorporarme a nuevos proyectos de desarrollo de software y poder gestiónar en conjunto con un equipo, el desarrollo de diversos proyectos. Al dia de hoy, ya manejo el desarrollo de servicios basados en la nube como Google Cloud, además de aplicar diferentes herramientas en mis proyectos como la inteligencia artificial.
 
 ## ⏱ Actualmente me encuentro
 
-+ 🛠 Actualmente me encuentro desarrollando un proyecto para el taller de revelado analógico [Alfalab](https://github.com/AUbillaOliva/Alfalab/tree/master).
-+ 👨‍🎓 Me encuentro en mi **#5** año academico como Ingeniero Civil en Computación con mención en informática.
++ 🛠 Actualmente me encuentro trabajando en la [Comisión Nacional de Riego](https://www.cnr.gob.cl) como desarrollador.
++ 👨‍🎓 Me encuentro en mi último año academico como Ingeniero Civil en Computación con mención en informática en la Universidad Tecnológica Metropolitana.
 
 ## 👨‍💻 He contribuido en los siguientes proyectos
 
