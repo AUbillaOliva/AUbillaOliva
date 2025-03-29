@@ -1,6 +1,6 @@
 # Hola mundo
 
-Hola me llamo Álvaro Ubilla, tengo 24 años y soy un estudiante de Ingeniería Civíl en Computación mención Informática de la Universidad Tecnológica Metropolitana de Santiago de Chile. Me dedico principalmente en el desarrollo de aplicaciónes, tanto moviles como web mediante librerías valoradas por la comunidad, tales como `nodejs`, `express`, `mongodb`, `nextjs`, `react`, entre muchas otras.
+Hola me llamo Álvaro Ubilla, Ingeniero Civíl en Computación mención Informática de la Universidad Tecnológica Metropolitana de Santiago de Chile. Me dedico principalmente en el desarrollo de aplicaciónes, tanto moviles como web mediante librerías valoradas por la comunidad, tales como `nodejs`, `express`, `mongodb`, `nextjs`, `react`, entre muchas otras.
 
 Mi principal lenguaje de programación es typescript ♥
 
@@ -11,7 +11,6 @@ Fue en mis años de enseñanza media que decidí realizar proyectos relacionados
 ## ⏱ Actualmente me encuentro
 
 + 🛠 Actualmente me encuentro trabajando en la [Comisión Nacional de Riego](https://www.cnr.gob.cl) como desarrollador.
-+ 👨‍🎓 Me encuentro en mi último año academico como Ingeniero Civil en Computación con mención en informática en la Universidad Tecnológica Metropolitana.
 
 ## 👨‍💻 He contribuido en los siguientes proyectos
 
@@ -30,9 +29,9 @@ LSCH App es una aplicación móvil para Android, diseñada con el proposito de b
 ## ⛳ Mis Hobbies
 
 + 🚴‍♀️ Ciclismo: Conllevo una vida saludable mediante el deporte de ciclismo.
++ 🏍 Motociclismo: Me gusta viajar y explorar nuevas rutas.
 + 🎮 Videojuegos: Para ocio y entretenimiento.
 + 🎨 Diseño: Me gusta aprender sobre topicos relacionados a diseño de interfaces; actualmente me guío bajo los principios de [Material Design](https://m3.material.io/).
-+ 📹 Creación de contenido en redes sociales.
 
 ## ℹ Contacto
 
